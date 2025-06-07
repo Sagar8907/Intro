@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F;Hello+%F0%9F%91%8B;%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%DB%8C%DA%A9%D9%85+%F0%9F%99%8F" alt="Typing SVG" />
+</p>
+
+
+
 # Hi 👋, I'm Himanshu Sagar  
 I'm a passionate web developer and curious soul, always exploring the latest in web tech.  
 I love creating vibrant UIs and building real-time web apps with the MERN stack.
